@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **Transfer learning, Few-shot learning**
 
+![IMAGE](https://github.com/mSadeghfallahi/mSadeghfallahi/blob/main/Brain%20Neuron%20GIF%20by%20Harvard%20University.gif?raw=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
